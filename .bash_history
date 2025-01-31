@@ -135,3 +135,22 @@ git commit -m "Initial commit"
 git push -u origin master
 ls
 clear
+ls
+git init
+git add -A
+git commit -m 'Added my project'
+git config --global user.email "irfaan_t95@hotmail.com"
+git commit -m 'Added my project'
+git remote add origin git@github.com: Irfaan95/Linux-bash-scripts.git
+git branch
+git branch bash/creating-a-web-server
+git checkout bash/creating-a-web-server
+git branch
+git push origin bash/creating-a-web-server
+clear
+git remote add origin https://github.com/Irfaan95/Linux-bash-scripts.git
+git branch -M main
+git push -u origin main
+clear
+git --version
+git commit -m "Initial commit"
